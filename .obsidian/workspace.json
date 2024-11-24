@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market.md",
+                "file": "🎮 Games/Game Design/Underground Market/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Underground Market"
+              "title": "Design"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market.md",
+                "file": "🎮 Games/Game Design/Underground Market/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Underground Market의 백링크"
+              "title": "Design의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market.md",
+                "file": "🎮 Games/Game Design/Underground Market/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Underground Market의 나가는 링크"
+              "title": "Design의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market.md"
+                "file": "🎮 Games/Game Design/Underground Market/Design.md"
               },
               "icon": "lucide-list",
-              "title": "Underground Market 개요"
+              "title": "Design 개요"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
+    "🎮 Games/Game Design/Underground Market",
+    "🎮 Games/Game Design/Horror house",
     "📜 templates/Icons.md",
-    "🎮 Games/Game Design/Underground Market.md",
+    "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Game Design",
     "✏ Algorithm",
     "🎮 Games",
