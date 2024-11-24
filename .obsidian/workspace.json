@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Game Design/무제 파일.md",
+                "file": "🎮 Games/Game Design/Underground Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Underground Market"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮 Games/Game Design/무제 파일.md",
+                "file": "🎮 Games/Game Design/Underground Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "Underground Market의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎮 Games/Game Design/무제 파일.md",
+                "file": "🎮 Games/Game Design/Underground Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "Underground Market의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Game Design/무제 파일.md"
+                "file": "🎮 Games/Game Design/Underground Market.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "Underground Market 개요"
             }
           }
         ]
@@ -166,7 +166,7 @@
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
     "📜 templates/Icons.md",
-    "🎮 Games/Game Design/무제 파일.md",
+    "🎮 Games/Game Design/Underground Market.md",
     "🎮 Games/Game Design",
     "✏ Algorithm",
     "🎮 Games",
