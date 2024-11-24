@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market/Design.md",
+                "file": "🎮 Games/Study/1권.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "1권"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market/Design.md",
+                "file": "🎮 Games/Study/1권.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Design의 백링크"
+              "title": "1권의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market/Design.md",
+                "file": "🎮 Games/Study/1권.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Design의 나가는 링크"
+              "title": "1권의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Game Design/Underground Market/Design.md"
+                "file": "🎮 Games/Study/1권.md"
               },
               "icon": "lucide-list",
-              "title": "Design 개요"
+              "title": "1권 개요"
             }
           }
         ]
@@ -165,10 +165,12 @@
   },
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
+    "🎮 Games/Game Design/Underground Market/Design.md",
+    "🎮 Games/Study/1권.md",
+    "🎮 Games/Study",
     "🎮 Games/Game Design/Underground Market",
     "🎮 Games/Game Design/Horror house",
     "📜 templates/Icons.md",
-    "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Game Design",
     "✏ Algorithm",
     "🎮 Games",
