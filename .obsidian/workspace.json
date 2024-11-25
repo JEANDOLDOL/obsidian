@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Study/1권.md",
+                "file": "🎮 Games/Study/2권.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1권"
+              "title": "2권"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Study/1권.md"
+                "file": "🎮 Games/Study/2권.md"
               },
               "icon": "lucide-list",
-              "title": "1권 개요"
+              "title": "2권 개요"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
-    "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study/1권.md",
+    "🎮 Games/Study/2권.md",
+    "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study",
     "🎮 Games/Game Design/Underground Market",
     "🎮 Games/Game Design/Horror house",
