@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Game Design/Lazy Sweeper/Design.md",
+                "file": "🎮 Games/Study/2권.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "2권"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Game Design/Lazy Sweeper/Design.md"
+                "file": "🎮 Games/Study/2권.md"
               },
               "icon": "lucide-list",
-              "title": "Design 개요"
+              "title": "2권 개요"
             }
           }
         ]
@@ -163,11 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e1695eb202e08e9",
+  "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
+    "🎮 Games/Game Design/Lazy Sweeper/Design.md",
     "🎮 Games/Game Design/Lazy Sweeper",
     "🎮 Games/Study/2권.md",
-    "🎮 Games/Game Design/Lazy Sweeper/Design.md",
     "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study",
