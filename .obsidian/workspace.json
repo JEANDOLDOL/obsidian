@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Study/2권.md",
+                "file": "🎮 Games/Game Design/Shooting Cans/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2권"
+              "title": "Design"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Study/2권.md"
+                "file": "🎮 Games/Game Design/Shooting Cans/Design.md"
               },
               "icon": "lucide-list",
-              "title": "2권 개요"
+              "title": "Design 개요"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
-    "🎮 Games/Study/1권.md",
+    "🎮 Games/Game Design/Shooting Cans",
     "🎮 Games/Study/2권.md",
+    "🎮 Games/Game Design/Shooting Cans/Design.md",
+    "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study",
     "🎮 Games/Game Design/Underground Market",
