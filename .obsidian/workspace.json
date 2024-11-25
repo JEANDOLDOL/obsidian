@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37292ad6901dabad",
+        "id": "512ff0e5eba4e4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c45b1bb6105b923",
+            "id": "0c9f2807b51cc0c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c45b1bb6105b923",
+  "active": "0c9f2807b51cc0c0",
   "lastOpenFiles": [
     "🎮 Games/Study/2권.md",
+    "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Lazy Sweeper/Design.md",
     "🎮 Games/Game Design/Lazy Sweeper",
-    "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study",
     "🎮 Games/Game Design/Underground Market",
