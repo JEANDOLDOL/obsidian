@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "2권 개요"
             }
+          },
+          {
+            "id": "b34d1863b912a716",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +175,9 @@
   },
   "active": "0c45b1bb6105b923",
   "lastOpenFiles": [
+    "🎮 Games/Study/2권.md",
     "🎮 Games/Game Design/Lazy Sweeper/Design.md",
     "🎮 Games/Game Design/Lazy Sweeper",
-    "🎮 Games/Study/2권.md",
     "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Underground Market/Design.md",
     "🎮 Games/Study",
