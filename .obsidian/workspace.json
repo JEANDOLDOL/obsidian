@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎮 Games/Study/2권.md",
+                "file": "📜 templates/TIL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2권"
+              "title": "TIL"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎮 Games/Study/2권.md"
+                "file": "📜 templates/TIL.md"
               },
               "icon": "lucide-list",
-              "title": "2권 개요"
+              "title": "TIL 개요"
             }
           },
           {
@@ -176,6 +176,7 @@
   "active": "0c9f2807b51cc0c0",
   "lastOpenFiles": [
     "🎮 Games/Study/2권.md",
+    "📜 templates/TIL.md",
     "🎮 Games/Study/1권.md",
     "🎮 Games/Game Design/Lazy Sweeper/Design.md",
     "🎮 Games/Game Design/Lazy Sweeper",
